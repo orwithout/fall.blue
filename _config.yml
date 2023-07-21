@@ -6,11 +6,13 @@ url: https://blog.eai.cc
 repository: orwithout/blog.eai.cc
 
 favicon_ico: "/eai.cc/eai.cc.ico.svg"
+# Set a path/url to a logo that will be displayed instead of the title
 logo: "/eai.cc/eai.cc.svg"
 
 aux_links:
   微信公众号: https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4NDkwNDIwMA==&mid=2247483823&idx=1&sn=284b8c76c1d7bb6b7272f12857c1abf9&send_time=
-# Set a path/url to a logo that will be displayed instead of the title
+  # 新标签页打开
+aux_links_new_tab: true
 
 # For copy button on code
 enable_copy_code_button: true
@@ -23,3 +25,4 @@ exclude:
    - gemfiles/
    - Gemfile
    - Gemfile.lock
+
