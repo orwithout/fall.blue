@@ -1,8 +1,25 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: blog.eai.cc
+description: eai.cc provides easy and accessible AI content creation solutions. Our platform utilizes advanced AI technologies to generate high-quality content for various needs. Join us to streamline your content creation process.
 theme: just-the-docs
+baseurl: ""
+url: https://blog.eai.cc
+repository: orwithout/blog.eai.cc
 
-url: https://just-the-docs.github.io
+favicon_ico: "/eai.cc/eai.cc.ico.svg"
+logo: "/eai.cc/eai.cc.svg"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  微信公众号: https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI4NDkwNDIwMA==&mid=2247483823&idx=1&sn=284b8c76c1d7bb6b7272f12857c1abf9&send_time=
+# Set a path/url to a logo that will be displayed instead of the title
+
+# For copy button on code
+enable_copy_code_button: true
+
+# 美人鱼 md 逻辑图表
+mermaid:
+# 排除的文件或目录
+exclude:
+ # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
