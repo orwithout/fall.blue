@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 date: 2023-7-23 11:50:00 +0800
 ---
 
