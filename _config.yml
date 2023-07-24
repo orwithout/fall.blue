@@ -19,6 +19,7 @@ enable_copy_code_button: true
 
 # 美人鱼 md 逻辑图表
 mermaid:
+
 # 排除的文件或目录
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
