@@ -4,7 +4,7 @@ layout: default
 date: 2023-7-23
 nav_order: 4
 ---
-## 一、ChatGPT账号注册获取
+## 1. ChatGPT账号注册获取
 * ### 要点提示
 1. 网络能访问 [`ChatGPT官网`](https://chat.openai.com)[^1] 。
 2. 具备一个 [`ChatGPT服务地区`]( https://platform.openai.com/docs/supported-countries)[^2] (如美国\印度\菲律宾) 能收认证码手机号。
@@ -20,7 +20,7 @@ nav_order: 4
 4. [`ChatGPT账号注册视频教程二(开通plus)`](https://www.bilibili.com/video/BV1yM4y1L71M/?share_source=copy_web&vd_source=67fb2e03a0a8947d04dd74fa1d6f8de0)[^9]
 
 
-## 二、Midjourney账号注册获取
+## 2. Midjourney账号注册获取
 * ### 要点提示
 1. `Midjourney官网`[^10] 国内可访问
 2. 点击官网页面右下角: **Join The Beta**，会引导你登录Discord软件。
@@ -35,16 +35,19 @@ nav_order: 4
 3. `Midjourney账号注册视频教程一`[^15]
 4. `Midjourney账号注册视频教程二`[^16]
 
+## 3. 直接购买获取
 
-## 三、直接购买获取
-* [fk.xt666.cc](https://fk.xt666.cc)[^17]
-* [nf.video](https://nf.video)[^18]
+* ### 资源参考
 
+  * [fk.xt666.cc](https://fk.xt666.cc)[^17]
+  * [nf.video](https://nf.video)[^18]
 
-## 四、文中方法如出现错误, 欢迎指出, 作者会持续更新和修订
+<br>
 
+> **_文中方法如出现错误, 欢迎指出, 作者会持续更新_**
 
-## 五、文中引用
+> **_引用：_**
+
 [^1]: `ChatGPT官网(英文)` [https://chat.openai.com](https://chat.openai.com)
 [^2]: `ChatGPT服务地区(英文)` [https://platform.openai.com/docs/supported-countries](https://platform.openai.com/docs/supported-countries)
 [^3]: `虚拟号网站sms-activate` [https://sms-activate.org/?ref=3865145](https://sms-activate.org/?ref=3865145)
