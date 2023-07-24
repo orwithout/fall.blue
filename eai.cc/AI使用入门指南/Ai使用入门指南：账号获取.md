@@ -22,18 +22,18 @@ nav_order: 4
 
 ## 2. Midjourney账号注册获取
 * ### 要点提示
-1. `Midjourney官网`[^10] 国内可访问
+1. [`Midjourney官网`](https://www.midjourney.com)[^10] 国内可访问
 2. 点击官网页面右下角: **Join The Beta**，会引导你登录Discord软件。
 3. Mj使用的途径，就是在Discord中，与他们的机器人聊天。
-4. Discord在国内不能访问。使用这个网络代理软件后能：`Watt Toolkit`[^11] 。
+4. Discord在国内不能访问。使用这个网络代理软件后能：[`Watt Toolkit`](https://steampp.net)[^11] 。
 5. Mj可以免费使用，但人数高峰时候不行。
-6. 官方群人数多，信息刷屏很快，可加入 `eai.cc建的Mj分流群`[^12] 。
+6. 官方群人数多，信息刷屏很快，可加入 [`eai.cc建的Mj分流群`](https://discord.gg/TweBHj85)[^12] 。
 
 * ### 教程或资源参考
-1. `Midjourney账号注册图文教程一`[^13]
-2. `Midjourney账号注册图文教程二`[^14]
-3. `Midjourney账号注册视频教程一`[^15]
-4. `Midjourney账号注册视频教程二`[^16]
+1. [`Midjourney账号注册图文教程一`](https://mp.weixin.qq.com/s?__biz=MzUyNzgzNzIzNw==&mid=2247595067&idx=1&sn=d306a8abc9f5def94c5352dd2d80baa8&scene=21&token=1792243853&lang=zh_CN#wechat_redirect)[^13]
+2. [`Midjourney账号注册图文教程二`](https://mp.weixin.qq.com/s?__biz=Mzg3MDg1NTk1Mw==&mid=2247483736&idx=1&sn=ba783f7c7522c4ab1e1a62f18f7753ec&scene=21&token=1792243853&lang=zh_CN#wechat_redirect)[^14]
+3. [`Midjourney账号注册视频教程一`](https://www.ixigua.com/7246740001776468520)[^15]
+4. [`Midjourney账号注册视频教程二`](https://www.ixigua.com/7245622377147531776)[^16]
 
 ## 3. 直接购买获取
 
